@@ -42,8 +42,8 @@ namespace Practicum1
             start.Text      = "Start";
             start.BackColor = Color.Yellow;
 
-            x = 700;
-            y = 380;
+            x = Screen.PrimaryScreen.Bounds.Width / 2;
+            y = Screen.PrimaryScreen.Bounds.Height / 2;
 
             Point startLoc = new Point(x, y);
             start.Location = startLoc;
