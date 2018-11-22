@@ -1,0 +1,7 @@
+C:\Users\fmrud\source\repos\Practicum 1\Practicum 1\obj\Debug\Practicum 1.csprojAssemblyReference.cache
+C:\Users\fmrud\source\repos\Practicum 1\Practicum 1\obj\Debug\Practicum 1.csproj.CoreCompileInputs.cache
+C:\Users\fmrud\source\repos\Practicum 1\Practicum 1\bin\Debug\Practicum 1.exe.config
+C:\Users\fmrud\source\repos\Practicum 1\Practicum 1\bin\Debug\Practicum 1.exe
+C:\Users\fmrud\source\repos\Practicum 1\Practicum 1\bin\Debug\Practicum 1.pdb
+C:\Users\fmrud\source\repos\Practicum 1\Practicum 1\obj\Debug\Practicum 1.exe
+C:\Users\fmrud\source\repos\Practicum 1\Practicum 1\obj\Debug\Practicum 1.pdb
